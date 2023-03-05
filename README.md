@@ -7,7 +7,7 @@ Pretty wild we can do things like this.
   
   # To Run  
   1) Create a config.py  
-  2) put your OpenAI api key in as OPENAI_API_KEY="your_key".  
+  2) Add your OpenAI api key in config.py as OPENAI_API_KEY="your_key"  
   3) Run:
     
     python3 -m venv venv && source venv/bin/activate && pip install -r requirements
