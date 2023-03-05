@@ -6,5 +6,7 @@ Pretty wild we can do things like this.
   
   
   # To Run  
-  First `echo 'OPENAI_API_KEY="YOUR_API_KEY"' > config.py`  
-  Then `python3 -m venv venv && source venv/bin/activate && pip install -r requirements`
+  First  
+  `echo 'OPENAI_API_KEY="YOUR_API_KEY"' > config.py`  
+Then  
+`python3 -m venv venv && source venv/bin/activate && pip install -r requirements`
